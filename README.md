@@ -1,5 +1,5 @@
 
-## Hello, I'm Priyanshu <img src="./assets/waving_hand.gif" width="30px"></h2>
+## Hello, I'm Priyanshu
 
 - :telescope: I'm currently studying Diploma in Computer Science and Technology from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
 - 🌱 I’m currently learning **Front-End Development** | **Linux System**:penguin: 
@@ -13,7 +13,7 @@
 - [Beginner Projects Using HTML, CSS, Vanilla JS](https://github.com/priyaaanshu/html-css-js-beginner-projects)
 <!-- <p align=center><a href="https://github.com/Team-Storydeck/storydeck">
 <img alt="Storydeck" src="./assets/storydeck_480px.png" hight=90px width=90px >
-</p> --> -->
+</p> --> 
 ### :computer: Technologies I'm in:
 
 ![C++](http://img.shields.io/badge/-C++-3776AB?style=square&logo=c&logoColor=d8e3e7) ![HTML](https://img.shields.io/badge/-HTML5-%23F7DF1C?style=square&logo=html5&logoColor=ccffbd&color=310b0b) ![CSS](https://img.shields.io/badge/-CSS3-%23F7DF1C?style=square&logo=css3&logoColor=51c4d3&color=2b4f60) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=square&logo=visual-studio-code&logoColor=ffffff) ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=square&logo=latex&logoColor=ffffff) ![Linux](http://img.shields.io/badge/-Linux-0d335d?style=square&logo=Linux&logoColor=white) ![Git](http://img.shields.io/badge/-Git-383e56?style=square&logo=git&logoColor=ffffff)
