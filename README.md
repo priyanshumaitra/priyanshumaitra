@@ -2,10 +2,10 @@
 ## Hello, I'm Priyanshu
 
 - :telescope: I'm currently studying Diploma in Computer Science and Technology from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
-- 🌱 I’m currently learning **Front-End Development** | **Linux System**:penguin: 
-- 🤔 I’m looking for help with beginner friendly **Open Source Projects**.
-- 💬 Ask me about Anime, Movies, Web-Series, Current Technologies.
-- 😄 Pronouns: He/Him
+<!-- - 🌱 I’m currently learning **Front-End Development** | **Linux System**:penguin:  -->
+<!-- - 🤔 I’m looking for help with beginner friendly **Open Source Projects**. -->
+
+
 - :star2: I like to.
 
 <!-- ### :open_file_folder: Projects:
