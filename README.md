@@ -6,8 +6,6 @@
 <!-- - 🤔 I’m looking for help with beginner friendly **Open Source Projects**. -->
 
 
-- :star2: I like to.
-
 <!-- ### :open_file_folder: Projects:
 - [Storydeck](https://github.com/Team-Storydeck/storydeck) - An Open-Source and Cross-platform App to listen, collect and download Audio Stories :headphones: [Work in Progress]
 - [Beginner Projects Using HTML, CSS, Vanilla JS](https://github.com/priyaaanshu/html-css-js-beginner-projects)
