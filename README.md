@@ -2,6 +2,7 @@
 ## Hello, I'm Priyanshu
 
 - :telescope: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
+- 👨‍💻️ Learning ![C++](http://img.shields.io/badge/-C++-3776AB?style=square&logo=c&logoColor=d8e3e7) and ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 - 🔍 Looking forward to help with beginner friendly **Open Source Projects**.
 
 <!-- ### :open_file_folder: Projects:
@@ -16,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-priyanshumaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanshumaitra@gmail.com)](mailto:priyanshumaitra@gmail.com) [![GitHub](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=github&logoColor=white&link=https://github.com/priyanshumaitra)](https://github.com/priyanshumaitra) [![Telegram](https://img.shields.io/badge/-priyanshumaitra-b2deec?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/priyanshumaitra)](https://t.me/priyanshumaitra) [![Twitter Badge](https://img.shields.io/badge/-priyanshumaitra-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/priyanshumaitra)](https://twitter.com/priyanshumaitra)
 
 ### :earth_asia: I'm also here:
-[![LinkedIn](https://img.shields.io/badge/-priyanshumaitra-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/priyanshumaitra)](https://linkedin.com/in/priyanshumaitra) [![Codepen Badge](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/priyanshumaitra)](https://codepen.io/priyanshumaitra)
+[![LinkedIn](https://img.shields.io/badge/-priyanshumaitra-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/priyanshumaitra)](https://linkedin.com/in/priyanshumaitra) <!-- [![Codepen Badge](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/priyanshumaitra)](https://codepen.io/priyanshumaitra) -->
 
 
 <!-- <p align=center>
