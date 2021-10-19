@@ -1,8 +1,7 @@
 
 ## Hello, I'm Priyanshu
 
-- :telescope: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
-- 👨‍💻️ Learning ![C++](http://img.shields.io/badge/-C++-3776AB?style=square&logo=c&logoColor=d8e3e7) and ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+- :telescope: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic). 
 - 🔍 Looking forward to help with beginner friendly **Open Source Projects**.
 
 <!-- ### :open_file_folder: Projects:
