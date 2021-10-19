@@ -1,10 +1,8 @@
 
 ## Hello, I'm Priyanshu
 
-- :telescope: I'm currently studying Diploma in Computer Science and Technology from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
-<!-- - 🌱 I’m currently learning **Front-End Development** | **Linux System**:penguin:  -->
-<!-- - 🤔 I’m looking for help with beginner friendly **Open Source Projects**. -->
-
+- :telescope: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic).
+- 🔍 Looking forward to help with beginner friendly **Open Source Projects**.
 
 <!-- ### :open_file_folder: Projects:
 - [Storydeck](https://github.com/Team-Storydeck/storydeck) - An Open-Source and Cross-platform App to listen, collect and download Audio Stories :headphones: [Work in Progress]
@@ -12,7 +10,6 @@
 <img alt="Storydeck" src="./assets/storydeck_480px.png" hight=90px width=90px >
 </p> --> 
 ### :computer: Technologies I'm in:
-
 ![C++](http://img.shields.io/badge/-C++-3776AB?style=square&logo=c&logoColor=d8e3e7) ![HTML](https://img.shields.io/badge/-HTML5-%23F7DF1C?style=square&logo=html5&logoColor=ccffbd&color=310b0b) ![CSS](https://img.shields.io/badge/-CSS3-%23F7DF1C?style=square&logo=css3&logoColor=51c4d3&color=2b4f60) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=square&logo=visual-studio-code&logoColor=ffffff) ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=square&logo=latex&logoColor=ffffff) ![Linux](http://img.shields.io/badge/-Linux-0d335d?style=square&logo=Linux&logoColor=white) ![Git](http://img.shields.io/badge/-Git-383e56?style=square&logo=git&logoColor=ffffff)
 
 ### :mailbox: Reach Me at:  
@@ -28,4 +25,4 @@
 
 [![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=algolia)](https://github.com/priyanshumaitra/github-readme-stats)
 
-  _GitHub Readme Stats Provided by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
+  _GitHub Readme Stats by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
