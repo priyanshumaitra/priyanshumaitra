@@ -1,6 +1,6 @@
 
 ## Hello, I'm Priyanshu <img src="./assets/waving_hand.gif" width="30px">
-- 
+
 - :man_student: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic). 
 - :telescope: Currently Exploring and Working on **Web Development(front-end)** and Linux 🐧 System.
 - 🔍 Looking forward to help with beginner friendly **Open Source Project**.
@@ -15,7 +15,8 @@
 
 ![C](http://img.shields.io/badge/-C-3776AB?style=square&logo=c&logoColor=d8e3e7) ![C++](http://img.shields.io/badge/-C++-3776AB?style=square&logo=c&logoColor=d8e3e7) ![Java](http://img.shields.io/badge/-Java-eeebdd?style=square&logo=Java&logoColor=d44000) ![HTML](https://img.shields.io/badge/-HTML5-%23F7DF1C?style=square&logo=html5&logoColor=ccffbd&color=310b0b) ![CSS](https://img.shields.io/badge/-CSS3-%23F7DF1C?style=square&logo=css3&logoColor=51c4d3&color=2b4f60) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=square&logo=visual-studio-code&logoColor=ffffff) ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=square&logo=latex&logoColor=ffffff) ![Linux](http://img.shields.io/badge/-Linux-0d335d?style=square&logo=Linux&logoColor=white) ![Git](http://img.shields.io/badge/-Git-383e56?style=square&logo=git&logoColor=ffffff)
 
-### :mailbox: Reach Me at:  
+### :mailbox: Reach Me at:
+
 [![Gmail Badge](https://img.shields.io/badge/-priyanshumaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanshumaitra@gmail.com)](mailto:priyanshumaitra@gmail.com) [![GitHub](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=github&logoColor=white&link=https://github.com/priyanshumaitra)](https://github.com/priyanshumaitra)<!-- [![Telegram](https://img.shields.io/badge/-priyanshumaitra-b2deec?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/PriyanshuMaitra)](https://t.me/PriyanshuMaitra) --> [![Twitter Badge](https://img.shields.io/badge/-priyanshumaitra-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/priyanshumaitra)](https://twitter.com/priyanshumaitra) [![LinkedIn](https://img.shields.io/badge/-priyanshumaitra-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/priyanshumaitra)](https://linkedin.com/in/priyanshumaitra)
 
 <!-- ### :earth_asia: I'm also here:
