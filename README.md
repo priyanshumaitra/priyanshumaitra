@@ -1,5 +1,5 @@
 
-## Hello, I'm Priyanshu <img src="./assets/waving_hand.gif" width="30px">
+## Hello, I'm Priyanshu
 
 - :man_student: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic). 
 - :telescope: Currently Exploring **Web Development** and Linux 🐧 System.
