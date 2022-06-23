@@ -2,7 +2,7 @@
 ## Hello, I'm Priyanshu
 
 - :man_student: Diploma in CS from [Central Calcutta Polytechnic](https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic). 
-- :telescope: Currently Exploring **Web Development** and Linux 🐧 System.
+- :telescope: Currently Exploring **Web Development** and **Linux 🐧 System**.
 - 🔍 Looking forward to help with beginner friendly **Open Source Project**.
 
 <!-- ### :open_file_folder: Projects:
