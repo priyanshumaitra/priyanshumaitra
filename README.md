@@ -29,4 +29,3 @@
 
 [![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=algolia)](https://github.com/priyanshumaitra/github-readme-stats)
 
-  _GitHub Readme Stats by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
