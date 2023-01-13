@@ -27,5 +27,5 @@
 <img src="./assets/virus_downloading.gif" width=450px>
 </p> -->
 
-[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=algolia)](https://github.com/priyanshumaitra/github-readme-stats)
+[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=codeSTACKr)](https://github.com/priyanshumaitra/github-readme-stats)
 
