@@ -22,10 +22,6 @@
 <!-- ### :earth_asia: I'm also here:
  [![Codepen Badge](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/priyanshumaitra)](https://codepen.io/priyanshumaitra) -->
 
-
-<!-- <p align=center>
-<img src="./assets/virus_downloading.gif" width=450px>
-</p> -->
-
 [![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=codeSTACKr)](https://github.com/priyanshumaitra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumaitra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
