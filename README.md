@@ -22,6 +22,7 @@
 <!-- ### :earth_asia: I'm also here:
  [![Codepen Badge](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/priyanshumaitra)](https://codepen.io/priyanshumaitra) -->
 
+![](https://komarev.com/ghpvc/?username=priyanshumaitra&style=for-the-badge)
 
 [![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=codeSTACKr&show_icons=true&count_private=true)](https://github.com/priyanshumaitra/github-readme-stats)
 
