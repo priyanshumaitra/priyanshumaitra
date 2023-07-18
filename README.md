@@ -38,4 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumaitra&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyanshumaitra)](https://github.com/priyanshumaitra/github-readme-activity-graph)
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshumaitra&theme=react-dark)](https://github.com/priyanshumaitra/github-readme-activity-graph)
