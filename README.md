@@ -1,7 +1,7 @@
 
 ## 👋 Hello, I'm Priyanshu
 
-- :man_student: Currently pursuing B.Tech in Information Technoloy from [University of Kalyani, DETS](https://en.wikipedia.org/wiki/University_of_Kalyani).
+- :man_student: Currently pursuing B.Tech in Information Technoloy.
 - :telescope: Currently Exploring **Web Development** and **Linux 🐧 System**.
 - 🔍 Looking forward to help with beginner friendly **Open Source Project**.
 
@@ -26,7 +26,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-priyanshumaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanshumaitra@gmail.com)](mailto:priyanshumaitra@gmail.com) 
 [![GitHub](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=github&logoColor=white&link=https://github.com/priyanshumaitra)](https://github.com/priyanshumaitra)
-[![Telegram](https://img.shields.io/badge/-priyanshumaitra-b2deec?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/PriyanshuMaitra)](https://t.me/PriyanshuMaitra)
+<!-- [![Telegram](https://img.shields.io/badge/-priyanshumaitra-b2deec?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/PriyanshuMaitra)](https://t.me/PriyanshuMaitra) -->
 [![Twitter Badge](https://img.shields.io/badge/-priyanshumaitra-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/priyanshumaitra)](https://twitter.com/priyanshumaitra)
 [![LinkedIn](https://img.shields.io/badge/-priyanshumaitra-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/priyanshumaitra)](https://linkedin.com/in/priyanshumaitra)
 
