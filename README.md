@@ -1,41 +1,30 @@
+ # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Priyanshu
 
-## 👋 Hello, I'm Priyanshu
-
-- :man_student: Currently pursuing B.Tech in Information Technoloy.
-- :telescope: Currently Exploring **Web Development** and **Linux 🐧 System**.
-- 🔍 Looking forward to help with beginner friendly **Open Source Project**.
-
-### :open_file_folder: Projects:
-- [YouTube Home Page Clone](https://github.com/priyanshumaitra/YouTube-Clone) - A YouTube Clone website using just HTML & CSS
-- [Instagram Home Feed Clone](https://github.com/priyanshumaitra/instagram-home-feed-clone) - A Instagram Clone website using just HTML, CSS & JS
+ ![](https://komarev.com/ghpvc/?username=priyanshumaitra&style=for-the-badge)
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-### :computer: Technologies I'm in:
+- 🌱 I’m currently learning **Web Development and DSA**
 
-![C](http://img.shields.io/badge/-C-3776AB?style=square&logo=c&logoColor=d8e3e7) 
-![C++](http://img.shields.io/badge/-C++-3776AB?style=square&logo=c&logoColor=d8e3e7) 
-![Java](http://img.shields.io/badge/-Java-eeebdd?style=square&logo=Java&logoColor=d44000) 
-![HTML](https://img.shields.io/badge/-HTML5-%23F7DF1C?style=square&logo=html5&logoColor=ccffbd&color=310b0b) 
-![CSS](https://img.shields.io/badge/-CSS3-%23F7DF1C?style=square&logo=css3&logoColor=51c4d3&color=2b4f60) 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=square&logo=visual-studio-code&logoColor=ffffff) 
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=square&logo=latex&logoColor=ffffff) 
-![Linux](http://img.shields.io/badge/-Linux-0d335d?style=square&logo=Linux&logoColor=white) 
-![Git](http://img.shields.io/badge/-Git-383e56?style=square&logo=git&logoColor=ffffff)
+<!-- - 👯 I’m looking to collaborate on **MedEase** -->
 
-### :mailbox: Reach Me at:
+- 🧑‍🎓 Currently pursuing Bachelor of Engineering in Information Technoloy
 
-[![Gmail Badge](https://img.shields.io/badge/-priyanshumaitra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanshumaitra@gmail.com)](mailto:priyanshumaitra@gmail.com) 
-[![GitHub](https://img.shields.io/badge/-priyanshumaitra-132c33?style=flat-square&logo=github&logoColor=white&link=https://github.com/priyanshumaitra)](https://github.com/priyanshumaitra)
-<!-- [![Telegram](https://img.shields.io/badge/-priyanshumaitra-b2deec?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/PriyanshuMaitra)](https://t.me/PriyanshuMaitra) -->
-[![Twitter Badge](https://img.shields.io/badge/-priyanshumaitra-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/priyanshumaitra)](https://twitter.com/priyanshumaitra)
-[![LinkedIn](https://img.shields.io/badge/-priyanshumaitra-0061a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/priyanshumaitra)](https://linkedin.com/in/priyanshumaitra)
+- 📫 Reach me at **priyanshumaitra@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/priyanshumaitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshumaitra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshumaitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshumaitra" height="30" width="40" /></a>
+<a href="https://codepen.io/priyanshumaitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyanshumaitra" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![](https://komarev.com/ghpvc/?username=priyanshumaitra&style=for-the-badge)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumaitra&show_icons=true&locale=en" alt="priyanshumaitra" /></p>
 
-[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshumaitra&theme=codeSTACKr&show_icons=true&count_private=true)](https://github.com/priyanshumaitra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumaitra&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshumaitra&" alt="priyanshumaitra" /></p>
 
 [![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshumaitra&theme=react-dark)](https://github.com/priyanshumaitra/github-readme-activity-graph)
