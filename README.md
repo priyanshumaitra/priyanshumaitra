@@ -9,8 +9,6 @@
 
 <!-- - 👯 I’m looking to collaborate on **MedEase** -->
 
-- 🧑‍🎓 Currently pursuing Bachelor of Engineering from Jadavpur University
-
 - 📫 Reach me at **priyanshumaitra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
