@@ -1,4 +1,4 @@
- # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Priyanshu
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Priyanshu
 
  ![](https://komarev.com/ghpvc/?username=priyanshumaitra&style=for-the-badge)
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
@@ -6,7 +6,7 @@
 
 
 
-- 📫 Reach me at **priyanshumaitra@gmail.com**
+- 📫 Reach me at **devs.priyanshu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +23,8 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumaitra&show_icons=true&locale=en" alt="priyanshumaitra" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumaitra&show_icons=true&locale=en" alt="priyanshumaitra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshumaitra&" alt="priyanshumaitra" /></p>
-
+-->
 [![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshumaitra&theme=react-dark)](https://github.com/priyanshumaitra/github-readme-activity-graph)
