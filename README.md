@@ -1,12 +1,12 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Priyanshu
-
+# Hello, I'm Priyanshu
+<!--![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
  ![](https://komarev.com/ghpvc/?username=priyanshumaitra&style=for-the-badge)
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">A passionate frontend developer from India</h3> 
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> -->
 
 
 
-- 📫 Reach me at **devs.priyanshu@gmail.com**
+📫 Reach me at **devs.priyanshu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshumaitra&" alt="priyanshumaitra" /></p>
 -->
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshumaitra&theme=react-dark)](https://github.com/priyanshumaitra/github-readme-activity-graph)
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshumaitra&theme=react-dark)](https://github.com/priyanshumaitra/github-readme-activity-graph) 
